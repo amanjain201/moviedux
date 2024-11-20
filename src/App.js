@@ -30,7 +30,7 @@ function App() {
       <div className="container">
         <Header></Header>
 
-        <Router>
+        <Router basename="/moviedux">
           <nav>
             <ul>
               <li>
