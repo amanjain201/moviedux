@@ -34,7 +34,7 @@ function App() {
           <nav>
             <ul>
               <li>
-                <Link to="/">Home</Link>
+                <Link to="/moviedux">Home</Link>
               </li>
               <li>
                 <Link to="/watchlist">Watchlist</Link>
